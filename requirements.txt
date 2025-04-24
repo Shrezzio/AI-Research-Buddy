@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dotenv
+PyMuPDF
+python-docx
+pandas
+google-generativeai
+matplotlib
